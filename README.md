@@ -37,7 +37,7 @@ This is a front-end project for "Bondi," a fictional creative agency. It's a ful
 
 To view or edit this project locally:
 
-  Clone the repository:
+    Clone the repository:
     ```sh
     git clone https://github.com/YB122/Bondi.git
     ```
