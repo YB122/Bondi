@@ -4,7 +4,7 @@ This is a front-end project for "Bondi," a fictional creative agency. It's a ful
 
 
 
-### [View Live Demo](https://your-username.github.io/bondi/)
+### [View Live Demo](https://yb122.github.io/Bondi/)
 
 
 ---
