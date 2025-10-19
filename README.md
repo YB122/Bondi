@@ -37,15 +37,11 @@ This is a front-end project for "Bondi," a fictional creative agency. It's a ful
 
 To view or edit this project locally:
 
-1.  Clone the repository:
+  Clone the repository:
     ```sh
-    git clone [https://github.com/your-username/bondi.git](https://github.com/your-username/bondi.git)
+    git clone https://github.com/YB122/Bondi.git
     ```
-2.  Navigate to the project directory:
-    ```sh
-    cd bondi
-    ```
-3.  Open the `index.html` file in your preferred web browser.
+
 
 ---
 
